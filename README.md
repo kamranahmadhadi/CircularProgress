@@ -1,4 +1,5 @@
 # CircularProgress
+Auto scroll progress with time duration
 ### Create XML file
 ```xml
 <com.widget.CircularProgressBar
